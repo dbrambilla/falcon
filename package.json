@@ -46,7 +46,7 @@
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@types/d3": "^5.0.0",
-    "@types/jest": "^23.3.3",
+    "@types/jest": "^23.3.4",
     "@types/ndarray": "1.0.6",
     "babel-preset-env": "^1.7.0",
     "gh-pages": "^2.0.1",
